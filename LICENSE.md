@@ -1,4 +1,4 @@
-#  
+#  Custom bee swarm simulator script is the best bee swarm simulator script with no cooldown and silent aim. Safe, reliable, and optimized for maximum performance.
 
 
 
